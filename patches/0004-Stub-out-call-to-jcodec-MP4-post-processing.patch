@@ -1,7 +1,7 @@
 From 2a1f99467c34b075cc6edcacda22ee531498efe4 Mon Sep 17 00:00:00 2001
 From: AdarshGrewal <adarshgrewal@gmail.com>
 Date: Sun, 7 Jun 2026 15:59:45 +0530
-Subject: [PATCH 4/7] Stub out call to jcodec MP4 post-processing
+Subject: [PATCH 4/6] Stub out call to jcodec MP4 post-processing
 
 * this seems to be only for MP4 cover tag
 ---
@@ -9,7 +9,7 @@ Subject: [PATCH 4/7] Stub out call to jcodec MP4 post-processing
  1 file changed, 1 insertion(+), 269 deletions(-)
 
 diff --git a/smali_classes6/Fj/e.smali b/smali_classes6/Fj/e.smali
-index 29f357e2f..922aa20b2 100644
+index 29f357e2..922aa20b 100644
 --- a/smali_classes6/Fj/e.smali
 +++ b/smali_classes6/Fj/e.smali
 @@ -5,275 +5,7 @@
